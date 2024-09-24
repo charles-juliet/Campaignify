@@ -1,27 +1,27 @@
 Here’s the updated README file with **ZeroBounce** integration for email validation:
 
 ```markdown
-# SaaS Email Newsletter Platform
+# Campaignify SaaS Email Newsletter Platform
 
 Welcome to the **SaaS Email Newsletter Platform**, a robust solution for managing email campaigns, preventing spam, and providing a seamless subscription experience for users. This platform is built with cutting-edge technologies like **Next.js 14**, **TypeScript**, **AWS SES**, **AstraDB**, **Stripe**, **ZeroBounce**, and hosted on **Vercel**.
 
 ## Features
 
-- **Spam Prevention**: Implement techniques to prevent spam emails and ensure secure email communications.
-- **ZeroBounce Email Validation**: Ensure that only valid and active email addresses are added to your mailing list.
-- **Customizable Email Designs**: Create beautiful email templates with responsive and interactive designs.
-- **Stripe Subscription**: Easily manage user subscriptions with built-in Stripe integration for payments.
-- **Scalability**: Powered by AWS SES for email delivery and AstraDB for high scalability and performance.
+- *Spam Prevention*: Implement techniques to prevent spam emails and ensure secure email communications.
+- *ZeroBounce Email Validation*: Ensure that only valid and active email addresses are added to your mailing list.
+- *Customizable Email Designs*: Create beautiful email templates with responsive and interactive designs.
+- *Stripe Subscription*: Easily manage user subscriptions with built-in Stripe integration for payments.
+- *Scalability*: Powered by AWS SES for email delivery and AstraDB for high scalability and performance.
 
 ## Technologies Used
 
-- **Next.js 14**: React-based framework for building server-side rendered and statically generated websites.
-- **TypeScript**: Ensures type safety and maintainability throughout the codebase.
-- **AWS SES**: Simple Email Service for reliable, scalable email communication.
-- **AstraDB**: Distributed cloud database based on Apache Cassandra, used for high performance and scalability.
-- **Stripe**: Payment gateway integration for managing subscriptions.
-- **ZeroBounce**: Email validation service that ensures deliverability and prevents invalid or disposable emails from entering your mailing list.
-- **Vercel**: Deployment platform designed for frontend frameworks and static sites.
+- *Next.js 14*: React-based framework for building server-side rendered and statically generated websites.
+- *TypeScript*: Ensures type safety and maintainability throughout the codebase.
+- *AWS SES*: Simple Email Service for reliable, scalable email communication.
+- *AstraDB*: Distributed cloud database based on Apache Cassandra, used for high performance and scalability.
+- *Stripe*: Payment gateway integration for managing subscriptions.
+- *ZeroBounce*: Email validation service that ensures deliverability and prevents invalid or disposable emails from entering your mailing list.
+- *Vercel*: Deployment platform designed for frontend frameworks and static sites.
 
 ## Getting Started
 
