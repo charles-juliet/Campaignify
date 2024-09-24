@@ -128,8 +128,8 @@ export const sideBarBottomItems: DashboardSideBarTypes[] = [
 
 export const subscribersData: subscribersDataTypes[] = [
   {
-    _id: "64f717a45331088de2ce886c",
-    email: "programmershahriarsajeeb@gmail.com",
+    _id: "66d75ac571a559c27325c174",
+    email: "oseperry933@gmail.com",
     createdAt: "5 September 2024",
     source: "Campaignify website",
     status: "subscribed",
